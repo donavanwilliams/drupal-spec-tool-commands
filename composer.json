@@ -1,5 +1,5 @@
 {
-    "name": "nickwilde1990/drupal-spec-tool-commands",
+    "name": "donavanwilliams/drupal-spec-tool-commands",
     "description": "Provides composer commands for automating usage of acquia/drupal-spec-tool",
     "type": "composer-plugin",
     "require": {
